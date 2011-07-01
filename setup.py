@@ -3,13 +3,13 @@ from setuptools import setup, find_packages
 __version__ = '0.1.1'
 
 setup(
-    name = 'bertrpc',
+    name = 'insight-bertrpc',
     license='MIT',
     version = __version__,
     description = 'BERT-RPC Library',
-    author = 'Michael J. Russo',
-    author_email = 'mjrusso@gmail.com',
-    url = 'http://github.com/mjrusso/python-bertrpc',
+    author = 'Team Insight',
+    author_email = 'jordan.bach@reelfx.com',
+    url = 'https://github.com/teaminsight/python-bertrpc',
     packages = ['bertrpc'],
     install_requires = ["erlastic", "bert"],
     classifiers = [

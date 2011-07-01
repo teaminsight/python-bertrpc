@@ -1,7 +1,9 @@
 BERTRPC
 =======
 
-A BERT-RPC client library for Python.  A port of Tom Preston-Werner's [Ruby library](http://github.com/mojombo/bertrpc).
+A BERT-RPC client library for Python.  A port of Tom Preston-Werner's [Ruby library](https://github.com/mojombo/bertrpc).
+
+This is a fork of [mjrusso/python-bertrpc](https://github.com/mjrusso/python-bertrpc).
 
 See the full BERT-RPC specification at [bert-rpc.org](http://bert-rpc.org).
 
@@ -15,7 +17,7 @@ Installation
 
 Install from PyPI:
 
-    easy_install bertrpc
+    easy_install insight-bertrpc
 
 Examples
 --------
